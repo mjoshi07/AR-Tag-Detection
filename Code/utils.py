@@ -178,8 +178,8 @@ def get_ID(ar_tag_2x2):
     if bl >= 0.8*w*h:
         bit_4 = 1
 
-    ID_binary = str(bit_1) + str(bit_2) + str(bit_3) + str(bit_4)
-    ID = bit_1 * 8 + bit_2 * 4 + bit_3 * 2 + bit_4 * 1
+    ID_binary = str(bit_4) + str(bit_3) + str(bit_4) + str(bit_1)
+    ID = bit_4 * 8 + bit_3 * 4 + bit_2 * 2 + bit_1 * 1
 
     return [ID, ID_binary]
 
