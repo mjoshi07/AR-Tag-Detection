@@ -6,7 +6,7 @@ AR Tag Detection and Superimpose virtual objects on it
 ## Results
 * AR Tag Corners Detected and ID Decoded: 1110 or 7
 <p align="center">
-<img src="https://github.com/mjoshi07/AR-Tag-Detection/blob/main/Data/results/AR_tag.png" height=400/>
+<img src="https://github.com/mjoshi07/AR-Tag-Detection/blob/main/Data/results/AR_tag.png" width=640/>
 </p>
 
 * Testudo Image superimposed on the detected AR Tag
