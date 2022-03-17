@@ -4,7 +4,7 @@ AR Tag Detection and Superimpose virtual objects on it
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Results
-* AR Tag Corners Detected and ID Decoded: 1110 or 7
+* AR Tag Corners Detected and ID Decoded: 0111 or 7
 <p align="center">
 <img src="https://github.com/mjoshi07/AR-Tag-Detection/blob/main/Data/results/AR_tag.png" width=640/>
 </p>
