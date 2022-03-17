@@ -1,5 +1,12 @@
 # AR-Tag-Detection
-AR Tag Detection and Superimpose virtual objects on it
+The objective is to detect a custom AR tag that can be used to obtain a point of reference in the real world for augemented reality applications
+
+## Overview
+* The project is divided into 3 parts
+* In First part, the AR Tag is detected and it tag orientation and ID is decoded
+* In the second part, a reference image is placed on the Tag such that it superimposes the tag in the whole video
+* In the third part, a virtual cube is placed on top of the Tag in the whole video
+* OpenCV methods such as find-contours, hough-transform, find-homography and warp-perspective have not been used, these methods have been implemented from scratch 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
